@@ -18,6 +18,6 @@ Recipe:
 | 100g  |  3.3    | 2.4    |
 | 100g  |  3.1    | 1.2    |
 
-![beans](roasts/beans_01202018.jpeg)
-![roast](roasts/roast_01202018.jpeg)
+![beans](roasts/beans_01202018.jpg)
+![roast](roasts/roast_01202018.jpg)
 
