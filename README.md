@@ -29,9 +29,9 @@ Recipe:
 
 I abandoned the recipe approach in favor of simply watching the beans and listening for first and second crack. I started each batch with 100% fan speed and high temperature. I turned fan speed to 50% upon first crack. Cooldown commenced shortly after second crack, with fan speeds back to 100%. 
 
-| Batch | Crack 1 | Crack 2|
-|-------|---------|--------|
-| 130g  |  4.0    | 5.9    |
-| 120g  |  3.5    | 5.2    |
+| Batch | Crack 1 | Crack 2| Color (1/6) | 
+|-------|---------|--------|-------------|
+| 130g  |  4.0    | 5.9    |  4.5 |
+| 120g  |  3.5    | 5.2    |  3.5 |
 
 ![roast](roasts/9CCBFF74-4B10-4AA7-807D-2D94C23C5016.jpeg)
