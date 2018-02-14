@@ -40,4 +40,19 @@ I abandoned the recipe approach in favor of simply watching the beans and listen
 | 130g  |  4.0    | 5.9    |  4.5 | 60% |
 | 120g  |  3.5    | 5.2    |  3.5 | 30% |
 
-![roast](roasts/9CCBFF74-4B10-4AA7-807D-2D94C23C5016.jpeg)
+![roast](roasts/roast_01282018.jpeg)
+
+## February 10, 2018
+
+I followed the same strategy as before, except I roasted this batch outside on a cool night to avoid triggering the smoke alarm. 
+
+Bean: Guatemala Huehuetenango Boqueroncito Lot 1
+
+| Batch | Crack 1 | Crack 2| Color (1/6) | Shine (%) | 
+|-------|---------|--------|-------------|-----------|
+| 110g  |  4.7    | 6.5    |  3.0 | 40% |
+| 115g  |  5.3    | 7.2    |  4.0 | 50% |
+| 110g  |  5.0    | 6.7    |  3.5 | 45% |
+| 70g  |  4.1    | 5.4    |  4.0 | 50% |
+
+![roast](roasts/roast_02102018.jpeg)
